@@ -17,7 +17,7 @@ Este es un challenge desarrollado en **React Native con Expo** que consume la AP
 
 ## 1️⃣ Clonar el repositorio
 
-git clone https://github.com/ramabeni94dev/Challenge-ReactNative.git
+git clone https://github.com/ramabeni94dev/Challenge-ReactNative-Expo.git
 
 cd Challenge-ReactNative
 
