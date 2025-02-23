@@ -35,9 +35,9 @@ npm install
 
 #### Crea el archivo **.env** y coloca tu API Key y URL de Google PageSpeed Insights:
 
-EXPO_API_KEY= TU_EXPO_API_KEY
+EXPO_PUBLIC_API_KEY= TU_EXPO_API_KEY
 
-EXPO_API_URL= TU_EXPO_API_URL
+EXPO_PUBLIC_API_URL= TU_EXPO_API_URL
 
 ## 4️⃣ Ejecutar la app en modo desarrollo
 
