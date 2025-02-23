@@ -16,6 +16,7 @@ export default function AppNavigator() {
         headerTitleStyle: {
           fontWeight: "bold",
         },
+        headerTitleAlign: "center",
       }}
     >
       <Stack.Screen
